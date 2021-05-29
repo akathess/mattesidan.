@@ -1,0 +1,12 @@
+.start {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    border: 15px solid #4c4eaf;
+    padding: 30px;
+}
+
+body {
+background-color: rgba(79, 131, 209, 0.479);
+}
+
